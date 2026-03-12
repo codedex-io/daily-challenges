@@ -2,7 +2,7 @@
 
 **Link:** https://www.codedex.io/daily-challenge
 
-### 🗓️ Challenge Index
+### 🗓️ March Monthly Challenge
 
 - [x] **3/02:** [Wordle](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/wordle.js)
 - [x] **3/03:** [Blood Moon](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/blood-moon.js) 🩸
