@@ -4,7 +4,7 @@
 
 ### 🗓️ March Monthly Challenge Solutions
 
-- [x] **3/2:** [Wordle](https://www.codedex.io/daily-challenge/2026-03-02) 🟩 [Solutions](https://github.com/codedex-io/daily-challenges/tree/main/march-2026/3-02-wordle)
+- [x] **3/2:** [Wordle]([https://www.codedex.io/daily-challenge/2026-03-02](https://github.com/codedex-io/daily-challenges/tree/main/march-2026/3-02-wordle)) 🟩
 - [x] **3/3:** [Blood Moon](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/blood-moon.js) 🩸
 - [x] **3/4:** [Holi](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/holi.js) 🌈
 - [x] **3/5:** [Homebrew Computer Club](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/homebrew-computer-club.js) 🤓
