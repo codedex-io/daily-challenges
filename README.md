@@ -1,5 +1,8 @@
 # Codédex Daily Challenges
 
+Welcome to the Daily Challenge solutions!  
+Feel free to explore, learn, and share your own approaches.
+
 **Link:** https://www.codedex.io/daily-challenge
 
 ### 🗓️ March Monthly Challenge Solutions
