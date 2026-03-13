@@ -15,7 +15,7 @@
 - [x] **3/10:** [Ring Ring](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/ring-ring.js) ☎️
 - [x] **3/11:** [Hitchhiker's Guide](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/hitchhikers-guide.js) 🪐
 - [x] **3/12:** World Wide Web 🌐
-- [ ] **3/13:** ❓❓❓
+- [ ] **3/13:** Palindrome 🏎️
 - [ ] **3/15:** ❓❓❓
 - [ ] **3/16:** ❓❓❓
 - [ ] **3/17:** ❓❓❓
