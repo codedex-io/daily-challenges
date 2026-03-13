@@ -18,7 +18,7 @@ Feel free to explore, learn, and share your own approaches.
 - [x] **3/10:** Ring Ring ☎️
 - [x] **3/11:** Hitchhiker's Guide 🪐
 - [x] **3/12:** World Wide Web 🌐
-- [ ] **3/13:** Palindrome 🏎️
+- [x] **3/13:** Palindrome 🏎️
 - [ ] **3/15:** ❓❓❓
 - [ ] **3/16:** ❓❓❓
 - [ ] **3/17:** ❓❓❓
