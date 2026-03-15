@@ -20,8 +20,8 @@ Feel free to explore, learn, and share your own approaches.
 - [x] **3/12:** World Wide Web 🌐
 - [x] **3/13:** Palindrome 🏎️
 - [x] **3/14:** Pi Day 🥧
-- [ ] **3/15:** ❓❓❓
-- [ ] **3/16:** ❓❓❓
+- [ ] **3/15:** Caesar Cipher 🏛️
+- [ ] **3/16:** The Oscars 🏆
 - [ ] **3/17:** ❓❓❓
 - [ ] **3/18:** ❓❓❓
 - [ ] **3/19:** ❓❓❓
