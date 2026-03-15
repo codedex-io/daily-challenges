@@ -1,5 +1,4 @@
 def calculate_descent(altitude):
-  # Write code below 💖
   # each layer has: high boundary, low boundary, and velocity (m/s)
   layers = [
     (10000, 700, 2000),
