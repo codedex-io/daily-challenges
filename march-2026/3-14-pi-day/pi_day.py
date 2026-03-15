@@ -1,11 +1,7 @@
-# Holi 🌈
+# Pi Day 🥧
 # Codédex
 
-def find_missing_colors(grid):
-  answer = ['🟥', '🟧', '🟨', '🟩', '🟦', '🟪', '🟫']
+from math import pi
 
-  for i in range(7):
-    for j in range(7):
-      if grid[i][j] in answer:
-        answer.remove(grid[i][j])
-  return answer
+def cut_pie(diameter, friends):
+  return round((pi * diameter) / friends, 2)
