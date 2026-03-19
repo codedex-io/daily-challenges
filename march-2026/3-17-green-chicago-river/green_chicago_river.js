@@ -1,11 +1,11 @@
 // Green Chicago River ☘️
-// shercodes's solution
+// shercodes
 
 function luckyRiver(river, hours) {
-  // Creates a new array with the same lenght as river for dyedRiver.
+  // Creates a new array with the same lenght as river for dyedRiver
   let dyedRiver = Array(river.length).fill("💧");
   
-  // Finds the index of each greenPatch.
+  // Finds the index of each greenPatch
   let greenPatch = [];
   for (let i = 0; i < river.length; i++) {
     if (river[i] === "☘️") {
@@ -13,7 +13,7 @@ function luckyRiver(river, hours) {
     }
   }
   
-  // Drifts the dyeSource one position to the right after every hour.
+  // Drifts the dyeSource one position to the right after every hour
   greenPatch.forEach(dyeSource => {
     for (let p = dyeSource; p <= dyeSource + hours; p++) {
       if (p < river.length) {
