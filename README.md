@@ -23,7 +23,7 @@ Feel free to explore, learn, and share your own approaches.
 - [ ] **3/15:** [Caesar Cipher](https://github.com/codedex-io/daily-challenges/tree/main/march-2026/3-15-caesar-cipher) 🏛️
 - [ ] **3/16:** [Oscars 2026](https://github.com/codedex-io/daily-challenges/tree/main/march-2026/3-16-oscars-2026) 🏆
 - [ ] **3/17:** [Green Chicago River](https://github.com/codedex-io/daily-challenges/tree/main/march-2026/3-17-green-chicago-river) 🍀
-- [ ] **3/18:** Flight Vouchers 🏖️
+- [ ] **3/18:** [Flight Vouchers](https://github.com/codedex-io/daily-challenges/tree/main/march-2026/3-18-flight-vouchers) 🏖️
 - [ ] **3/19:** March Madness 🏀
 - [ ] **3/20:** Blossom Forecast 🌸
 - [ ] **3/21:** ❓❓❓
