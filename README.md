@@ -20,10 +20,10 @@ Feel free to explore, learn, and share your own approaches.
 - [x] **3/12:** [World Wide Web](https://github.com/codedex-io/daily-challenges/tree/main/march-2026/3-12-world-wide-web) 🌐
 - [x] **3/13:** [Palindrome](https://github.com/codedex-io/daily-challenges/tree/main/march-2026/3-13-palindrome) 🏎️
 - [x] **3/14:** [Pi Day](https://github.com/codedex-io/daily-challenges/tree/main/march-2026/3-14-pi-day) 🥧
-- [ ] **3/15:** [Caesar Cipher](https://github.com/codedex-io/daily-challenges/tree/main/march-2026/3-15-caesar-cipher) 🏛️
-- [ ] **3/16:** [Oscars 2026](https://github.com/codedex-io/daily-challenges/tree/main/march-2026/3-16-oscars-2026) 🏆
-- [ ] **3/17:** [Green Chicago River](https://github.com/codedex-io/daily-challenges/tree/main/march-2026/3-17-green-chicago-river) 🍀
-- [ ] **3/18:** [Flight Vouchers](https://github.com/codedex-io/daily-challenges/tree/main/march-2026/3-18-flight-vouchers) 🏖️
+- [x] **3/15:** [Caesar Cipher](https://github.com/codedex-io/daily-challenges/tree/main/march-2026/3-15-caesar-cipher) 🏛️
+- [x] **3/16:** [Oscars 2026](https://github.com/codedex-io/daily-challenges/tree/main/march-2026/3-16-oscars-2026) 🏆
+- [x] **3/17:** [Green Chicago River](https://github.com/codedex-io/daily-challenges/tree/main/march-2026/3-17-green-chicago-river) 🍀
+- [x] **3/18:** [Flight Vouchers](https://github.com/codedex-io/daily-challenges/tree/main/march-2026/3-18-flight-vouchers) 🏖️
 - [ ] **3/19:** [March Madness](https://github.com/codedex-io/daily-challenges/tree/main/march-2026/3-19-march-madness) 🏀
 - [ ] **3/20:** Blossom Forecast 🌸
 - [ ] **3/21:** ❓❓❓
