@@ -14,8 +14,8 @@ def tweet_balance(tweet):
     else:
       # for each character
       for char in word:
-        # if ascii value more than 0x1F000 it means it's an emoji
-        if ord(char) > 0x1F000:
+        # if ascii value at least 0x1F000 it means it's an emoji
+        if ord(char) >= 0x1F000:
           char_count += 2
         else:
           char_count += 1
