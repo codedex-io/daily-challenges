@@ -26,7 +26,7 @@ Feel free to explore, learn, and share your own approaches.
 - [ ] **3/18:** [Flight Vouchers](https://github.com/codedex-io/daily-challenges/tree/main/march-2026/3-18-flight-vouchers) 🏖️
 - [ ] **3/19:** [March Madness](https://github.com/codedex-io/daily-challenges/tree/main/march-2026/3-19-march-madness) 🏀
 - [ ] **3/20:** Cherry Blossoms 🌸
-- [ ] **3/21:** First Tweet 🐦
+- [x] **3/21:** [First Tweet](https://github.com/codedex-io/daily-challenges/tree/main/march-2026/3-21-first-tweet) 🐦
 - [ ] **3/22:** ❓❓❓
 - [ ] **3/23:** ❓❓❓
 - [ ] **3/24:** ❓❓❓
