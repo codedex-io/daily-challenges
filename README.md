@@ -29,7 +29,7 @@ Feel free to explore, learn, and share your own approaches.
 - [x] **3/21:** First Tweet 🐦
 - [x] **3/22:** Water Day 💧
 - [x] **3/23:** Cuddly Kittens 🐈
-- [ ] **3/24:** Earthquake Anomaly 🌏
+- [x] **3/24:** [Earthquake Anomaly](https://github.com/codedex-io/daily-challenges/tree/main/march-2026/3-24-earthquake-anomaly) 🌏
 - [ ] **3/25:** ❓❓❓
 - [ ] **3/26:** ❓❓❓
 - [ ] **3/26:** ❓❓❓
