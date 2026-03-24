@@ -29,7 +29,7 @@ Feel free to explore, learn, and share your own approaches.
 - [x] **3/21:** First Tweet 🐦
 - [x] **3/22:** Water Day 💧
 - [x] **3/23:** Cuddly Kittens 🐈
-- [ ] **3/24:** Earthquake Detection 🌏
+- [ ] **3/24:** Earthquake Anomaly 🌏
 - [ ] **3/25:** ❓❓❓
 - [ ] **3/26:** ❓❓❓
 - [ ] **3/26:** ❓❓❓
