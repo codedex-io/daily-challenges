@@ -30,7 +30,7 @@ Feel free to explore, learn, and share your own approaches.
 - [x] **3/22:** Water Day 💧
 - [x] **3/23:** Cuddly Kittens 🐈
 - [x] **3/24:** Earthquake Anomaly 🌏
-- [x] **3/25:** Opening Day ⚾️
+- [x] **3/25:** [Opening Day](https://github.com/codedex-io/daily-challenges/tree/main/march-2026/3-25-opening-day) ⚾️
 - [ ] **3/26:** ❓❓❓
 - [ ] **3/26:** ❓❓❓
 - [ ] **3/28:** ❓❓❓
