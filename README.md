@@ -32,7 +32,7 @@ Feel free to explore, learn, and share your own approaches.
 - [x] **3/24:** Earthquake Anomaly 🌏
 - [x] **3/25:** Opening Day ⚾️
 - [ ] **3/26:** Flatten Array 🪜
-- [ ] **3/26:** ❓❓❓
+- [x] **3/26:** [Infinite Monkey Theorem](https://github.com/codedex-io/daily-challenges/tree/main/march-2026/3-27-infinite-monkey-theorem) 🐒
 - [ ] **3/28:** ❓❓❓
 - [ ] **3/29:** ❓❓❓
 - [ ] **3/30:** ❓❓❓
