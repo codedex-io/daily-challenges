@@ -33,7 +33,7 @@ Feel free to explore, learn, and share your own approaches.
 - [x] **3/25:** Opening Day ⚾️
 - [ ] **3/26:** Flatten Array 🪜
 - [ ] **3/27:** Infinite Monkey Theorem 🐒
-- [ ] **3/28:** 28 Days Later 🧟
+- [x] **3/28:** [28 Days Later](https://github.com/codedex-io/daily-challenges/tree/main/march-2026/3-28-28-days-later) 🧟
 - [ ] **3/29:** ❓❓❓
 - [ ] **3/30:** ❓❓❓
 - [ ] **3/31:** ❓❓❓
