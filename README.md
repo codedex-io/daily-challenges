@@ -34,6 +34,6 @@ Feel free to explore, learn, and share your own approaches.
 - [ ] **3/26:** Flatten Array 🪜
 - [ ] **3/27:** Infinite Monkey Theorem 🐒
 - [ ] **3/28:** 28 Days Later 🧟
-- [ ] **3/29:** Leaderboard Stats 📊
+- [ ] **3/29:** [Leaderboard Stats](https://github.com/codedex-io/daily-challenges/tree/main/march-2026/3-29-leaderboard-stats) 📊
 - [ ] **3/30:** ❓❓❓
 - [ ] **3/31:** ❓❓❓
