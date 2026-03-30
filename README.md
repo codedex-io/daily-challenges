@@ -35,5 +35,5 @@ Feel free to explore, learn, and share your own approaches.
 - [x] **3/27:** Infinite Monkey Theorem 🐒
 - [x] **3/28:** 28 Days Later 🧟
 - [x] **3/29:** Leaderboard Stats 📊
-- [x] **3/30:** Ye Old Emoticons 📰
+- [x] **3/30:** [Ye Old Emoticons](https://github.com/codedex-io/daily-challenges/tree/main/march-2026/3-30-ye-olde-emoticons) 📰
 - [ ] **3/31:** ❓❓❓
