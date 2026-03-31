@@ -36,4 +36,4 @@ Feel free to explore, learn, and share your own approaches.
 - [x] **3/28:** 28 Days Later 🧟
 - [x] **3/29:** Leaderboard Stats 📊
 - [x] **3/30:** Ye Old Emoticons 📰
-- [ ] **3/31:** My Best Streak 🔥
+- [x] **3/31:** [My Best Streak](https://github.com/codedex-io/daily-challenges/tree/main/march-2026/3-31-my-best-streak) 🔥
