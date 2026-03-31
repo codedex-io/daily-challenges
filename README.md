@@ -36,4 +36,4 @@ Feel free to explore, learn, and share your own approaches.
 - [x] **3/28:** 28 Days Later 🧟
 - [x] **3/29:** Leaderboard Stats 📊
 - [x] **3/30:** Ye Old Emoticons 📰
-- [ ] **3/31:** My Longest Streak 🔥
+- [ ] **3/31:** Longest Streak 🔥
